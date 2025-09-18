@@ -1,7 +1,7 @@
 ---
-title: "Oral interrogator"
+title: "Oral interrogations in Classe Préparatoire aux Grandes Ecoles (CPGE)"
 collection: teaching
-type: "Undergraduate course"
+type: ""
 permalink: /teaching/colles
 venue: "Lycée Louis le grand, MPSI"
 date: 2025-01-01
@@ -9,3 +9,6 @@ location: "Paris, France"
 ---
 
 I conducted oral interrogations in Classes Préparatoires, the French preparatory courses for the entrance exams to French engineering schools.
+
+
+[![Lycée Louis Le Grand](/files/llg.jpg)](/files/llg.jpg)
