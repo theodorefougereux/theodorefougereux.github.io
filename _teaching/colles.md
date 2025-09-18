@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/colles
 venue: "Lycée Louis le grand, MPSI"
-date: 2022-2025
+date: 2025
 location: "Paris, France"
 ---
 
