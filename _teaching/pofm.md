@@ -4,7 +4,7 @@ collection: teaching
 type: "Olympiad preparation"
 permalink: /teaching/pofm
 venue: "French olympiad preparation"
-date: 2019
+date: 2019-01-01
 location: "Paris, France"
 ---
 
