@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "[Your Name]"
+title: "Théodore Fougereux"
 author_profile: true
 redirect_from: 
   - /about/
